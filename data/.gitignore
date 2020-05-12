@@ -1,0 +1,6 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!dataset_provision.sh
